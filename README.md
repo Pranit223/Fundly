@@ -1,5 +1,13 @@
-<<<<<<< HEAD
+# Copyright Notice
+
+© 2026 Fundly Project. All rights reserved.
+
+Developed by:
+- Akash Chaudhary (2210991213)
+- Pranit (2210992063)
 # AI Expense Tracker
+
+
 
 Full-stack expense tracker built with Flutter, FastAPI, and MongoDB.
 
