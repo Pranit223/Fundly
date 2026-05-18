@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # AI Expense Tracker
 
 Full-stack expense tracker built with Flutter, FastAPI, and MongoDB.
@@ -156,3 +157,6 @@ If Ollama is not running, the app automatically falls back to local rule-based c
 - Push or local notifications
 - Export to CSV or PDF
 - OCR bill scanning
+=======
+# Fundly
+>>>>>>> 244c373e9f075761199be868d7617e04d85cd3c8
